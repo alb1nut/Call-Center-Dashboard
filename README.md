@@ -1,5 +1,8 @@
 # Call Center Data Analysis Project
 
+![image](https://github.com/alb1nut/Call-Center-Dashboard/assets/86856866/01ab7d0b-f0f9-4421-ab90-2f59f6d9aef1)
+
+
 ## Project Overview
 This project involves analyzing a Call Center dataset to generate meaningful insights and visualizations. The dataset contains information about calls, agents, topics, and satisfaction ratings. The goal is to clean the data, perform analysis, and create a dashboard to display key performance indicators (KPIs).
 
